@@ -1,0 +1,1 @@
+# 346-h3-threads-and-synchronization-in-java-solved
